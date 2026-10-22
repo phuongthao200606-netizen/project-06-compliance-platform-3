@@ -294,13 +294,13 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("#### 👥 Đội ngũ thực hiện (Team 06)")
     st.markdown("""
-    - **👑 Nhóm trưởng:** Nguyễn Phương Thảo
+    - **👑 Nhóm trưởng:** Lê Hồng Phương Thảo
     - **Thành viên:**
-        - Nguyễn Thị Bảo Châu
-        - Đỗ Thúy Hiền
-        - Lê Thị Như Ý
-        - Trần Minh Anh
-        - Vòng Ngọc
+        - Lê Bảo Châu
+        - Vũ Thúy Hiền
+        - Nguyễn Ngọc Như Ý
+        - Trần Thị Minh Anh
+        - Vòng Ánh Ngọc
     """)
 
     st.markdown("---")
