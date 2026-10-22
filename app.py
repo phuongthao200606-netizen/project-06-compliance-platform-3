@@ -229,10 +229,10 @@ with st.sidebar:
   st.markdown("### 🏛️ NHNN RegTech Platform")
   st.markdown("**Project 06: Compliance AI Platform**")
   st.markdown("---")
-  st.markdown("#### 👥 Đội ngũ thực hiện (Team 06)")
+  st.markdown("#### 👥 Đội ngũ thực hiện (Team 01)")
   st.markdown("""
-    - **Leader:** Nguyễn Phương Thảo
-    - **Thành viên:** Bảo Châu, Thúy Hiền, Như Ý, Minh Anh, Vòng Ngọc
+    - **Leader:** Phương Thảo
+    - **Thành viên:** Bảo Châu, Thúy Hiền, Như Ý, Minh Anh, Ánh Ngọc
     """)
   st.markdown("---")
   st.markdown("#### ⚙️ Cấu hình Gemini API Key")
